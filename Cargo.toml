@@ -1,12 +1,12 @@
 [package]
-name = "p12"
-version = "0.6.3"
-authors = ["hjiayz <hjiayz@gmail.com>", "Marc-Antoine Perennou <Marc-Antoine@Perennou.com>"]
+name = "p12_q3"
+version = "0.7.0"
+authors = ["hjiayz <hjiayz@gmail.com>", "Marc-Antoine Perennou <Marc-Antoine@Perennou.com>", "qthree <qthree3@gmail.com>"]
 edition = "2021"
 keywords = ["pkcs12", "pkcs"]
 description = "pure rust pkcs12 tool"
-homepage = "https://github.com/hjiayz/p12"
-repository = "https://github.com/hjiayz/p12"
+homepage = "https://github.com/qthree/p12"
+repository = "https://github.com/qthree/p12"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
 rust-version = "1.57.0"
